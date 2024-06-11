@@ -38,3 +38,15 @@ contract MyToken {
     }
 
 }
+
+/* 
+Few addresses for testing burn, mint and balances
+ 0x2675875c94bdD0dcB23Ac5e378ffDEFF2cb18Ae6
+ 0x5B38Da6a701c568545dCfcB03FcB875f56beddC4
+ 7bRzk4C9GrgmpwsNeKm9zUcPB1QmUKp7AbHunRr7fKtU
+ 0x76d341B001614EADa413E111C73E55d62844D5D5
+*/
+
+
+
+
