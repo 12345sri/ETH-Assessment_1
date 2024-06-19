@@ -73,5 +73,5 @@ Sriporna Biswas
 https://www.linkedin.com/in/sriporna-biswas-7062a4294/
 
 ## License
-This MyToken is licensed under the MIT License
+This Create A Token is licensed under the MIT License
 
